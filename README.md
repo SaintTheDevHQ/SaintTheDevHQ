@@ -1,6 +1,6 @@
 # 👋 Hey, I'm SaintTheDevHQ!
 
-<h3 align="center">Aspiring Web Developer | Building for the Web 🚀</h3>
+<h3 align="center">Aspiring Software  Developer | Building for the Web 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+JavaScript;Building+responsive+websites;Growing+one+project+at+a+time" alt="Typing animation" />
